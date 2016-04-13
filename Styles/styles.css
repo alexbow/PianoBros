@@ -1,7 +1,7 @@
 .header{
 	background-color: white;
 	padding-top: .5%;
-	border-left: 28px solid #7FFF00;
+	border-left: 28px solid green;
 }
 
 @font-face{
@@ -19,6 +19,11 @@
 }
 
 .links{
-	background-color: #7FFF00;
+	background-color: green;
+	color: white;
 	width: 23%;
+}
+
+.link:visited{
+	color: white;
 }
