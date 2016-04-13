@@ -1,0 +1,24 @@
+.header{
+	background-color: white;
+	padding-top: .5%;
+	border-left: 28px solid #7FFF00;
+}
+
+@font-face{
+	font-family: musicalFont;
+	src: url(ChopinScript.ttf);
+}
+
+.logo{
+	font-family: musicalFont;
+	font-size: 50px;
+}
+
+.container{
+	background-color: white;
+}
+
+.links{
+	background-color: #7FFF00;
+	width: 23%;
+}
